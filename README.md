@@ -38,10 +38,12 @@ Compile and execute `dense_mapping.cpp` .
 
 ## Result
 
-feature extraction and matching.
+Feature extraction and matching.
 <img src="https://github.com/zw007981/MonocularSLAMBaxter/blob/master/features.png">
 
-Depth images after 5 iterations and 100 iterations.
-<img src="https://github.com/zw007981/VisualServoingBaxter/blob/master/5.png">
-<img src="https://github.com/zw007981/VisualServoingBaxter/blob/master/100.png">
+The depth image after 5 iterations.
+<img src="https://github.com/zw007981/MonocularSLAMBaxter/blob/master/5.png">
+
+The depth image after 100 iterations.
+<img src="https://github.com/zw007981/MonocularSLAMBaxter/blob/master/100.png">
 
