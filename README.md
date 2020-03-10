@@ -42,8 +42,8 @@ Feature extraction and matching.
 <img src="https://github.com/zw007981/MonocularSLAMBaxter/blob/master/features.png">
 
 The depth image after 5 iterations.
-<img src="https://github.com/zw007981/MonocularSLAMBaxter/blob/master/5.png" width="200">
+<img src="https://github.com/zw007981/MonocularSLAMBaxter/blob/master/5.png" width="400">
 
 The depth image after 100 iterations.
-<img src="https://github.com/zw007981/MonocularSLAMBaxter/blob/master/100.png" width="200">
+<img src="https://github.com/zw007981/MonocularSLAMBaxter/blob/master/100.png" width="400">
 
