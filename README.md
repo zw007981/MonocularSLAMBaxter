@@ -39,8 +39,9 @@ Compile and execute `dense_mapping.cpp` .
 ## Result
 
 Feature extract and match.
-<img src="https://github.com/zw007981/MonocularSLAMBaxter/blob/master/features.png" width="450">
+<img src="https://github.com/zw007981/MonocularSLAMBaxter/blob/master/features.png">
 
 Depth pictures after 5 iterations and 100 iterations.
-<img src="https://github.com/zw007981/VisualServoingBaxter/blob/master/trajectory2.png" width="450">
+<img src="https://github.com/zw007981/VisualServoingBaxter/blob/master/5.png" width="200">
+<img src="https://github.com/zw007981/VisualServoingBaxter/blob/master/100.png" width="200">
 
